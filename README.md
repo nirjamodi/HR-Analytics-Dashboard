@@ -14,9 +14,6 @@ The HR Analytics Dashboard allows organizations to:
 - Attrition Analysis: Insights into the attrition rate, highlighting departments with the highest turnover.
 - Performance Metrics: Visual representation of employee performance and satisfaction scores.
 
-  Why this project? This project demonstrates my skills in data visualization, analytical thinking, and the ability to translate data into actionable insights. It showcases my expertise in using Power BI to   create compelling visualizations and conduct in-depth data analysis.
-
-
 **Data Source**
 
 The data used in this project is a synthetic HR dataset that covers the following fields:
