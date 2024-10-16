@@ -10,10 +10,12 @@ The HR Analytics Dashboard allows organizations to:
 
 **Key Features**
 
-Employee Demographics: Breakdown of employees by department, age group, and gender.
-Attrition Analysis: Insights into the attrition rate, highlighting departments with the highest turnover.
-Performance Metrics: Visual representation of employee performance and satisfaction scores.
-Why this project? This project demonstrates my skills in data visualization, analytical thinking, and the ability to translate data into actionable insights. It showcases my expertise in using Power BI to create compelling visualizations and conduct in-depth data analysis.
+- Employee Demographics: Breakdown of employees by department, age group, and gender.
+- Attrition Analysis: Insights into the attrition rate, highlighting departments with the highest turnover.
+- Performance Metrics: Visual representation of employee performance and satisfaction scores.
+
+  Why this project? This project demonstrates my skills in data visualization, analytical thinking, and the ability to translate data into actionable insights. It showcases my expertise in using Power BI to   create compelling visualizations and conduct in-depth data analysis.
+
 
 **Data Source**
 
@@ -40,13 +42,13 @@ Note: The dataset is simulated for demonstration purposes and does not include a
 
 **Tools & Technologies**
 
-Power BI: Used for creating visualizations and interactive dashboards.
-DAX (Data Analysis Expressions): For creating custom calculations.
-CSV/Excel: For storing and cleaning data.
+- Power BI: Used for creating visualizations and interactive dashboards.
+- DAX (Data Analysis Expressions): For creating custom calculations.
+- CSV/Excel: For storing and cleaning data.
 
 **Skills Demonstrated**
-Data Visualization
-Analytical Thinking
-HR Data Analysis
-Dashboard Design
-Power BI Expertise
+- Data Visualization
+- Analytical Thinking
+- HR Data Analysis
+- Dashboard Design
+- Power BI Expertise
